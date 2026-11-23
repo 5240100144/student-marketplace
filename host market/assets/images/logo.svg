@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 50" width="240" height="50" fill="none">
+    <rect x="2" y="5" width="40" height="40" rx="10" fill="#2e1065"/>
+    <path d="M12 18 L22 13 L32 18 L22 23 Z" fill="#f97316"/>
+    <path d="M15 22.5 V28.5 C15 31.5 22 34 22 34 C22 34 29 31.5 29 28.5 V22.5" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+    <path d="M32 18 V26" stroke="#fb923c" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="32" cy="27" r="1.5" fill="#fb923c"/>
+    <text x="52" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="800" fill="#1e1b4b">Campus<tspan fill="#f97316">Market</tspan></text>
+    <text x="53" y="39" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="700" fill="#7c3aed" letter-spacing="1.2">STUDENT MARKETPLACE</text>
+</svg>
